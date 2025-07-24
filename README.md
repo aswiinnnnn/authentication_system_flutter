@@ -90,8 +90,8 @@ flutter pub get
 
 ## 📸 Screenshots
 
-> 📌 A screenshot of the login screen will be added here soon.
-> ![Description of image](images/Screenshot1.png)
+> ![](images/Screenshot2.png)
+> ![](images/Screenshot1.png)
 
 
 ---
