@@ -43,8 +43,8 @@ assets/
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flutter-auth-demo.git
-cd flutter-auth-demo
+git clone https://github.com/aswiinnnnn/authentication_system_flutter.git
+cd authentication_system_flutter
 ```
 
 ### 3. Install Dependencies
@@ -96,7 +96,7 @@ flutter pub get
 
 ## 🧑‍💻 Author
 
-**Aswin Aswin**
+**aswiinnnnn**
 [GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-linkedin)
 
 ---
