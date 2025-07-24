@@ -91,6 +91,8 @@ flutter pub get
 ## 📸 Screenshots
 
 > ![](images/Screenshot2.png)
+>
+> 
 > ![](images/Screenshot1.png)
 
 
@@ -99,7 +101,7 @@ flutter pub get
 ## 🧑‍💻 Author
 
 **aswiinnnnn**
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-linkedin)
+[GitHub](https://github.com/aswiinnnnn)
 
 ---
 
